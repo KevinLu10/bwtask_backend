@@ -23,8 +23,10 @@
 ### 二、架构
 
 项目有前端和后端
-前端是微信小程序,[班务管理系统-小程序](https://github.com/KevinLu10/bwtask_wxa)
-后端是Python+Flask+Celery+Mysql
+
+* 前端是微信小程序,[班务管理系统-小程序](https://github.com/KevinLu10/bwtask_wxa)
+
+* 后端是Python+Flask+Celery+Mysql
 
 ### 三、后端代码说明
 
